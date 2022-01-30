@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sys
 
 from PyQt5.QtGui import QPainter, QColor
@@ -44,3 +45,11 @@ if __name__ == '__main__':
     ex.show()
     sys.excepthook = except_hook
     sys.exit(app.exec())
+=======
+def main():
+    print('My first git program')
+
+
+if __name__ == '__main__':
+    main()
+>>>>>>> b47169b (абоба)
